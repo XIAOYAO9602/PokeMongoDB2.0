@@ -1,3 +1,7 @@
+//Overall I like your project, it is amazing. I like the the layout of your website,the font stlye and the icon of website.
+//I would like to suggest you to use some different colors to design your website, yellow, green and blue are not obvious colors.
+//plus it would be better if you use some somthing such as UI or picitures to make your website more attractive. 
+
 # PokeMongoDB2.0
 
 # Author: 
